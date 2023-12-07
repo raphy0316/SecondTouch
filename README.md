@@ -1,12 +1,12 @@
 # SecondHand
 One-handed typewriter software for one-handed people / Seoul Creative Idea Contest Silver Award
 
-<img src="https://github.com/raphy0316/SecondHand/assets/26518769/61d13ab4-2bbd-40a4-8f38-8719eb889470"  width="300" height="300"/>
-<img src="https://github.com/raphy0316/SecondHand/assets/26518769/dbad0257-61a1-4284-8223-aea6481bf636"  width="450" height="300"/>
+<img src="https://github.com/raphy0316/SecondHand/assets/26518769/4b33e8d7-4b9a-4f25-b525-c12c3343db39"  width="300" height="300"/>
+<img src="https://github.com/raphy0316/SecondHand/assets/26518769/19e3deb8-4d94-40bc-9468-73b8c12d62ff"  width="450" height="300"/>
 
 
+https://github.com/raphy0316/SecondHand/assets/26518769/676be27e-7187-49dd-857e-e446179a5a6c
 
-https://github.com/raphy0316/SecondHand/assets/26518769/659d027d-cd36-4458-8847-4e057211e44e
 
 
 
