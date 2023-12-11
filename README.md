@@ -13,4 +13,4 @@ https://github.com/raphy0316/SecondHand/assets/26518769/676be27e-7187-49dd-857e-
 
 This keyboard is for the disabled, developed using Python, which uses the characteristics of Hangul's consonants and vowels crossing over and over. The Korean keyboard, where consonants and vowels are separated from side to side, allows disabled people to type at a speed almost same speed to that of a regular person by automatically alternating left and right from one keyboard. It also includes a key that allows you to manually change left and right for foreigner input.
 
-For parts that are not in use, register shortcuts that are difficult to press with one hand, so that you can type by pressing only one key, such as Ctrl + c.
+
