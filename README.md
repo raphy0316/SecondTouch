@@ -1,4 +1,4 @@
-# SecondHand
+# SecondTouch
 One-handed typewriter software for one-handed people
 #### Seoul Creative Idea Contest Silver Award
 
